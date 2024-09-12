@@ -8,9 +8,6 @@ Here you will 4 sets of presets from 4k to 720p resolutions. Each containing 3 p
 
 ### 4k
 
-Reference:  
-![img](assets/4k_Reference.png)
-
 Grill Mask:  
 ![img](assets/4k_Grill_Mask.png)
 
@@ -21,9 +18,6 @@ Slot Mask:
 ![img](assets/4k_Slot_Mask.png)
 
 ### 2k
-
-Reference:  
-![img](assets/2k_Reference.png)
 
 Grill Mask:  
 ![img](assets/2k_Grill_Mask.png)
@@ -36,9 +30,6 @@ Slot Mask:
 
 ### 1920x1080
 
-Reference:  
-![img](assets/1080_Reference.png)
-
 Grill Mask:  
 ![img](assets/1080_Grill_Mask.png)
 
@@ -49,9 +40,6 @@ Slot Mask:
 ![img](assets/1080_Slot_Mask.png)
 
 ### 1280x720
-
-Reference:  
-![img](assets/720_Reference.png)
 
 Grill Mask:  
 ![img](assets/720_Grill_Mask.png)
