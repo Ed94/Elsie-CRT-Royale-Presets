@@ -2,7 +2,7 @@
 
 These are ini config presets for the [CRT Royale](https://github.com/akgunter/crt-royale-reshade) [Reshade](https://reshade.me) shader.
 
-Here you will find 12 presets, 4 sets from 4k to 720p, of 3 per phospher mask triad type. 
+Here you will 4 sets of presets from 4k to 720p resolutions. Each containing 3 presets per phospher mask triad type.
 
 ## Gallery
 
@@ -62,7 +62,7 @@ Shadow Mask:
 Slot Mask:  
 ![img](assets/720_Slot_Mask.png)
 
-## Reshade Installation
+## Installation
 
 Install Rehsade from the site: [Reshade](https://reshade.me)
 
